@@ -1,6 +1,10 @@
 ### Oii! Eu sou a Juliana 🤘
 ### Estudante de Sistemas de Informação 👩🏻‍💻
 
+![image](https://user-images.githubusercontent.com/57578037/120245273-140e2200-c243-11eb-99c4-c15ddc883a93.png)
+
+
+
 <!--
 **Juliana-flores/Juliana-flores** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
