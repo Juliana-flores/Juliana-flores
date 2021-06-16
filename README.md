@@ -1,7 +1,7 @@
 ### Oii! Eu sou a Juliana 🤘
 ### Estudante de Sistemas de Informação 👩🏻‍💻
 
-![snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
+![snake animation](https://github.com/Juliana-flores/Juliana-flores/blob/output/github-contribution-grid-snake.svg)
 
 
 
