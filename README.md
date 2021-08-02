@@ -2,7 +2,7 @@
 ### Estudante de Sistemas de Informação 👩🏻‍💻
 
 <div>
-  <a href="beacons.page/julianaflores">
+  <a href="https://www.beacons.page/julianaflores">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Juliana-flores&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Juliana-flores&layout=compact&langs_count=7&theme=dracula"/>
 </div>
@@ -23,7 +23,7 @@
    
   <a href="https://www.instagram.com/jufloresds" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
  <a href="https://discord.gg/Q7U86E7q" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
-  <a href="www.linkedin.com/in/julianaflores245618" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="https://www.linkedin.com/in/julianaflores245618" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
     
  </div>
   
