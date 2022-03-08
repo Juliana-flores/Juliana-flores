@@ -1,4 +1,4 @@
-### Oii! Eu sou a Juliana 🤘 Graduanda em Sistemas de Informação na FURG 👩🏻‍💻 Tenho interesse em Desenvolvimento Web/Mobile. 
+###  🤘  
 
 <div>
   <a href="https://www.beacons.page/julianaflores">
